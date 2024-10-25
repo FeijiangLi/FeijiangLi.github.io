@@ -7,7 +7,7 @@ layout: page
 
  **Feijiang Li (李飞江)**
  
- **E-mail**：fjli@sxu.edu.cn；
+ **E-mail**：fjli@sxu.edu.cn
 
 
 
