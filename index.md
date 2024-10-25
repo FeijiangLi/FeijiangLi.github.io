@@ -2,29 +2,85 @@
 layout: page
 ---
 
-# About Me
-
 <img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
 
-Here is **Feijiang Li (李飞江)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.<br>
+ **Feijiang Li (李飞江)**
+ 
+ **E-mail**：fjli@sxu.edu.cn；feijiangli@163.com
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
----
-
-## Research Interests
-
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+## 个人简介
+副教授，硕士生导师，2020年7月毕业于山西大学计算机应用技术专业，近年来，在《Artificial Intelligence》、《IEEE Transactions on Pattern Analysis and Machine Intelligence》、《Machine Learning》、《ACM Transactions on Knowledge Discovery from Data》、《IEEE Transactions on Neural Network and Learning Systems》、AAAI、《中国科学》等国内外重要学术期刊与会议发表论文三十余篇。主持国家自然科学基金面上项目、青年项目、山西省重大专项课题，参与国家级、省部级项目十余项。获山西省自然科学奖一等奖，山西大学文瀛学者、山西省优秀博士学位论文，ACM太原分会优秀博士论文奖、教育部宝钢优秀学生奖、山西大学第七届青年五四奖章。
 
 ---
 
-## Publications
+## 研究领域
+
+**机器学习、无监督学习、集成学习**
+
+---
+
+
+## 发表论文
 - **Feijiang Li**, Yuhua Qian*, Jieting Wang, Chuangyin Dang, Liping Jing, [Clustering ensemble based on sample’s stability](https://www.sciencedirect.com/science/article/pii/S0004370218301553), Artificial Intelligence, 2019, 273, 37-55. [[Demo Code](https://github.com/FeijiangLi/Clustering-ensemble-based-on-sample-stability)]
+
+---
+## 科研项目
+- 国家自然科学基金面上项目，多粒度无监督群体学习理论与方法研究，2025年1月至2028年12月，主持
+
+- 国家自然科学基金青年项目，多粒度视角下的无监督集成学习有效性理论与方法，2022年1月至2024年12月，主持
+
+- 山西省科技重大专项计划“揭榜挂帅”项目课题，偶发性电磁异常状态溯源及智能决策技术，2023年1月至2026年12月，主持
+
+- 国家自然科学基金重点项目，随机一致性视角下的可解释机器学习理论与模型，2022年1月至2026年12月，参与
+
+- 科技部科技创新2030——“新一代人工智能”重大项目，面向复杂动态系统的多智能体超图建模、感知与涌现分析方法研究，2021年12月至2024年11月，参与
+
+- 国家自然科学基金面上项目，资源受限的多视图聚类关键问题研究，2020年1月至2023年12月，参与
+
+- 国家自然科学基金面上项目，面向用户兴趣表示与认知推理的多粒度解纠缠方法研究，2023年1月至2026年12月，参与
+
+- 国家自然科学基金面上项目，基于关键链路优先的网络性能测量与态势感知研究，2019年1月至2019年12月，参与
+
+- 中央引导地方科技发展资金项目，基于无人系统技术的空间三维信息感知平台，2023年1月至2026年12月，参与
+
+- 中央引导地方科技发展资金项目，超景深微观三维测量设备的研制及在法兰锻造质量控制中的示范，2023年1月至2026年12月，参与
+
+
+---
+## 学术活动
+
+- 聚类集成有效性理论与方法, 第四届形式概念分析与粒计算学术研讨会特邀优秀青年博士报告, 深圳, 2019-5-17至2019-5-19
+
+- 聚类集成有效性要素研究, 2019年中国粒计算与知识发现学术会议青年论坛, 镇江, 2019-8-9至2019-8-11
+
+- 聚类集成有效性要素研究, 中国科学院数学与系统科学研究院人工智能前沿研讨会, 北京,2020-12-08至2020-12-08
+
+- 聚类集成有效性理论与方法研究, 中国计算机学会人工智能会议(CCFAI 2023)人工智能青年学者论坛, 乌鲁木齐, 2023-7-27至2023-7-30
+
+- 聚类集成有效性要素研究, 中国人工智能学会粒计算与知识发现专委会前沿论坛,线上，2023年4月27日
+
+- 聚类集成有效性要素理论与方法，CCF-AI@桂林电子科技大学报告会，桂林，2024年9月27日
+
+---
+
+## 奖励
+
+- 山西省科学技术奖自然科学类一等奖，钱宇华，李飞江（第二完成人），侯臣平，胡清华，梁吉业，大数据多粒度计算理论与方法, 山西省科学技术奖励委员会, 2022年
+
+- 宝钢优秀学生奖, 宝钢教育基金会, 2019年
+
+- 山西大学第七届青年五四奖章, 山西大学, 2020年
+
+- ACM太原优秀博士论文奖, ACM太原分会, 2020年
+
+- 山西省优秀博士学位论文, 山西省教育厅, 2021年
+
+---
+
+## 学术组织兼职
+
+- 中国人工智能学会粒计算与知识发现专业委员会副秘书长，2022年
+
+---
