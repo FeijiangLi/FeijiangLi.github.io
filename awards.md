@@ -1,29 +1,42 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: 学术活动与荣誉
 ---
 
-> Update: 20th Sep 2024
 
-## Scholarships
+## 学术活动
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 聚类集成有效性理论与方法, 第四届形式概念分析与粒计算学术研讨会特邀优秀青年博士报告, 深圳, 2019-5-17至2019-5-19
 
-## Competitions
+- 聚类集成有效性要素研究, 2019年中国粒计算与知识发现学术会议青年论坛, 镇江, 2019-8-9至2019-8-11
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- 聚类集成有效性要素研究, 中国科学院数学与系统科学研究院人工智能前沿研讨会, 北京,2020-12-08至2020-12-08
 
-<br>
+- 聚类集成有效性理论与方法研究, 中国计算机学会人工智能会议(CCFAI 2023)人工智能青年学者论坛, 乌鲁木齐, 2023-7-27至2023-7-30
+
+- 聚类集成有效性要素研究, 中国人工智能学会粒计算与知识发现专委会前沿论坛,线上，2023年4月27日
+
+- 聚类集成有效性要素理论与方法，CCF-AI@桂林电子科技大学报告会，桂林，2024年9月27日
+
+---
+
+## 奖励
+
+- 山西省科学技术奖自然科学类一等奖，钱宇华，李飞江（第二完成人），侯臣平，胡清华，梁吉业，大数据多粒度计算理论与方法, 山西省科学技术奖励委员会, 2022年
+
+- 宝钢优秀学生奖, 宝钢教育基金会, 2019年
+
+- 山西大学第七届青年五四奖章, 山西大学, 2020年
+
+- ACM太原优秀博士论文奖, ACM太原分会, 2020年
+
+- 山西省优秀博士学位论文, 山西省教育厅, 2021年
+
+---
+
+## 学术组织兼职
+
+- 中国人工智能学会粒计算与知识发现专业委员会副秘书长，2022年
+
+---

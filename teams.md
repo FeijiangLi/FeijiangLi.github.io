@@ -1,67 +1,26 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Teams
+title: 科研项目
 ---
 
-## Motivation
+## 科研项目
+- 国家自然科学基金面上项目，多粒度无监督群体学习理论与方法研究，2025年1月至2028年12月，主持
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
+- 国家自然科学基金青年项目，多粒度视角下的无监督集成学习有效性理论与方法，2022年1月至2024年12月，主持
 
----
+- 山西省科技重大专项计划“揭榜挂帅”项目课题，偶发性电磁异常状态溯源及智能决策技术，2023年1月至2026年12月，主持
 
-## OpenIoT Team
+- 国家自然科学基金重点项目，随机一致性视角下的可解释机器学习理论与模型，2022年1月至2026年12月，参与
 
-During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
+- 科技部科技创新2030——“新一代人工智能”重大项目，面向复杂动态系统的多智能体超图建模、感知与涌现分析方法研究，2021年12月至2024年11月，参与
 
-## Team News
+- 国家自然科学基金面上项目，资源受限的多视图聚类关键问题研究，2020年1月至2023年12月，参与
 
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU (in Chinese)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
-- **June 2023：**Our team won a national undergraduate research training grant (about $3000).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!](https://fzuiot.site/english/)<br>
+- 国家自然科学基金面上项目，面向用户兴趣表示与认知推理的多粒度解纠缠方法研究，2023年1月至2026年12月，参与
 
----
+- 国家自然科学基金面上项目，基于关键链路优先的网络性能测量与态势感知研究，2019年1月至2019年12月，参与
 
-## Our Fundings
+- 中央引导地方科技发展资金项目，基于无人系统技术的空间三维信息感知平台，2023年1月至2026年12月，参与
 
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
----
-
-## Team Members
-
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
-
----
-
-## Some Group Photos
-
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
-</div>
-<br>
+- 中央引导地方科技发展资金项目，超景深微观三维测量设备的研制及在法兰锻造质量控制中的示范，2023年1月至2026年12月，参与
