@@ -26,4 +26,5 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-## News and Updates
+## Publications
+- **Feijiang Li**, Yuhua Qian*, Jieting Wang, Chuangyin Dang, Liping Jing, [Clustering ensemble based on sample’s stability](https://www.sciencedirect.com/science/article/pii/S0004370218301553), Artificial Intelligence, 2019, 273, 37-55. [[Demo Code](https://github.com/FeijiangLi/Clustering-ensemble-based-on-sample-stability)]
