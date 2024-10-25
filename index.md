@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/FeijiangLi/FeijiangLi.github.io/feijiangli.jpg.jpg" class="floatpic">
+<img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
 
 Here is **Feijiang Li (李飞江)**.<br>
 
