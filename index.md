@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/Feijiang.JPG?raw=true" class="floatpic">
+<img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
 
 
  **Feijiang Li (李飞江)**
