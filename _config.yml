@@ -10,9 +10,9 @@ owner:
 links:
   - title: 简介
     url: /
-    - title: 发表论文
+  - title: 发表论文
     url: /publications/
-    - title: 科研项目
-    url: /projects/
-    - title: 学术活动与荣誉
+  - title: 科研项目
+    url: /teams/
+  - title: 学术活动与荣誉
     url: /awards/
