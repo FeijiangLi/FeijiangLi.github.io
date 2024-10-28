@@ -2,7 +2,7 @@
 layout: page
 permalink: /index/index.html
 title: 简介
-avatar: https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/images/lfj.jpg
+avatar: https://feijiangli.github.io/images/lfj.jpg
 ---
 
 <img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
