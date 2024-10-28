@@ -1,8 +1,6 @@
 ---
 layout: page
 title: 发表论文
-<meta property="og:image" content="https://feijiangli.github.io/path/to/your-thumbnail.jpg">
-<meta property="og:url" content="https://feijiangli.github.io">
 ---
 
 <img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
