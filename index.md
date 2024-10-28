@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 发表论文
+title: 简介
 ---
 
 <img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
