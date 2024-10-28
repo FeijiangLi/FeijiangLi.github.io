@@ -2,11 +2,11 @@ title: 李飞江 简介
 
 url: https://feijiangli.github.io/
 
-image: https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/images/lfj.jpg
+image: lfj.jpg
 
 # Owner/author information
 owner:
-  avatar: https://feijiangli.github.io/images/lfj.jpg
+  avatar: lfj.jpg
   email: feijiangli@163.com
   github: https://github.com/FeijiangLi
 
@@ -19,9 +19,3 @@ links:
     url: /teams/
   - title: 学术活动与荣誉
     url: /awards/
-
-
-<img src="{{ site.url }}/{{ site.owner.avatar }}" alt="{{ site.owner.name }}" class="bio-photo">
-<p>{{ site.owner.bio }}</p>
-<a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a>
-<a href="{{ site.owner.twitter }}">Twitter</a>
