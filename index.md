@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /index.html
 ---
 
 <img src="https://github.com/FeijiangLi/FeijiangLi.github.io/blob/main/feijiangli.jpg?raw=true" class="floatpic">
