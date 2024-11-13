@@ -6,7 +6,8 @@ title: 发表论文
 
 
 ## 期刊论文
-- **Feijiang Li**, Yuhua Qian, Jieting Wang, Chuangyin Dang, Liping Jing, [Clustering ensemble based on sample’s stability](https://www.sciencedirect.com/science/article/pii/S0004370218301553), *Artificial Intelligence*, 2019, 273, 37-55. [[Demo Code](https://github.com/FeijiangLi/Clustering-ensemble-based-on-sample-stability)]
+- **Feijiang Li**, Yuhua Qian, Jieting Wang, Chuangyin Dang, Liping Jing, [Clustering ensemble based on sample’s stability](https://www.sciencedirect.com/science/article/pii/S0004370218301553), *Artificial Intelligence*, 2019, 273, 37-55. [[<font color=CornflowerBlur>Demo Code</font>](https://github.com/FeijiangLi/Clustering-ensemble-based-on-sample-stability)]
+
 
 - Jieting Wang, Yuhua Qian, **Feijiang Li**, Jiye Liang, Qingfu Zhang, [Generalization Performance of Pure Accuracy and Its Application in Selective Ensemble Learning](https://ieeexplore.ieee.org/document/9765714). *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2023, 45(2): 1798-1816. 
 
