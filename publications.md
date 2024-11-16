@@ -30,6 +30,8 @@ title: 发表论文
 
 - Tao Li, Yuhua Qian, **Feijiang Li**, Xinyan Liang, Zhihui Zhan, [<font color=navy>Feature Subspace Learning-based Binary Differential Evolution Algorithm for Unsupervised Feature Selection</font>](https://ieeexplore.ieee.org/document/10473134), *IEEE Transactions on Big Data*; 2024, DOI: 10.1109/TBDATA.2024.3378090.
 
+- Jing Pan, Yuhua Qian, **Feijiang Li**, Qian Guo, [<font color=navy>Image deep clustering based on local-topology embedding</font>](https://www.sciencedirect.com/science/article/abs/pii/S0167865521002816), *Pattern Recognition Letters*, 2021, 151, 88-94.
+
 ---
 
 ## 会议论文
