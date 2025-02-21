@@ -48,6 +48,7 @@ title: 发表论文
 - Quanjiang Li, Tingjin Luo, Mingdie Jiang, Zhangqi Jiang, Chenping Hou, **Feijiang Li**, Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label, *Proceedings of the AAAI Conference on Artificial Intelligence*, 2025.
 
 - Liang Du, Henghui Jiang, Xiaodong Li, Yiqing Guo, Yan Chen, **Feijiang Li**, Peng Zhou, Yuhua Qian, Sharper Error Bounds in Late Fusion Multi-view Clustering with Eigenvalue Proportion Optimization, *Proceedings of the AAAI Conference on Artificial Intelligence*, 2025.
+
 ---
 
 ## 中文论文
