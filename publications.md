@@ -20,7 +20,7 @@ title: 发表论文
 
 - Jieting Wang, Yuhua Qian, **Feijiang Li**. [<font color=navy>Learning with Mitigating Random Consistency from the Accuracy Measure</font>](https://link.springer.com/article/10.1007/s10994-020-05914-3), *Machine Learning*, 2020, 109:2247-2281.
 
-- Jieting Wang, **Feijiang Li**, Jue Li, Chenping Hou, Yuhua Qian, Jiye Liang. [<font color=navy>RSS-Bagging: Improving Generalization through the Fisher Information of Training Data</font>](https://ieeexplore.ieee.org/document/10130442). *IEEE Transactions on Neural Networks and Learning Systems*, 2023, doi: 10.1109/TNNLS.2023.3270559.
+- Jieting Wang, **Feijiang Li**, Jue Li, Chenping Hou, Yuhua Qian, Jiye Liang. [<font color=navy>RSS-Bagging: Improving Generalization through the Fisher Information of Training Data</font>](https://ieeexplore.ieee.org/document/10130442). *IEEE Transactions on Neural Networks and Learning Systems*, 2025, 36(2): 1974-1988.
 
 - Jieting Wang, Yuhua Qian, **Feijiang Li**, Jiye Liang, Weiping Ding. [<font color=navy>Fusing fuzzy monotonic decision trees</font>](https://ieeexplore.ieee.org/document/8911550). *IEEE Transactions on Fuzzy Systems*, 2020, 28(5): 887-900. 
 
@@ -35,12 +35,19 @@ title: 发表论文
 ---
 
 ## 会议论文
-- **Feijiang Li**, Yuhua Qian, Jieting Wang, [<font color=navy>GoT: a growing tree model for clustering ensemble</font>](https://ojs.aaai.org/index.php/AAAI/article/view/17015). *The Thirty-Fifth AAAI Conference on Artificial Intelligence*, 2021, 35(9), 8349-8356. [[<font color=teal>Demo Code</font>](https://github.com/FeijiangLi/Code-GoT-a-growing-tree-model-for-clustering-ensemble-AAAI-21-)]
+- **Feijiang Li**, Yuhua Qian, Jieting Wang, [<font color=navy>GoT: a growing tree model for clustering ensemble</font>](https://ojs.aaai.org/index.php/AAAI/article/view/17015). *The Thirty-Fifth AAAI Conference on Artificial Intelligence*, 2021, 35(9): 8349-8356. [[<font color=teal>Demo Code</font>](https://github.com/FeijiangLi/Code-GoT-a-growing-tree-model-for-clustering-ensemble-AAAI-21-)]
 
-- Furong Peng, Jiachen Luo, Xuan Lu, Sheng Wang, **Feijiang Li**, [<font color=navy>Cross-Domain Contrastive Learning for Time Series Clustering</font>](https://ojs.aaai.org/index.php/AAAI/article/view/28740), *Proceedings of the AAAI Conference on Artificial Intelligence*, 2024, 38(8), 8921-8929.
+- Furong Peng, Jiachen Luo, Xuan Lu, Sheng Wang, **Feijiang Li**, [<font color=navy>Cross-Domain Contrastive Learning for Time Series Clustering</font>](https://ojs.aaai.org/index.php/AAAI/article/view/28740), *Proceedings of the AAAI Conference on Artificial Intelligence*, 2024, 38(8): 8921-8929.
 
-- Zhanwen Cheng, **Feijiang Li**, Jieting Wang, Yuhua Qian, [<font color=navy>Deep Embedding Clustering Driven by Sample Stability</font>](https://www.ijcai.org/proceedings/2024/426), *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence*, 2024, Pages 3854-3862.
+- Zhanwen Cheng, **Feijiang Li**, Jieting Wang, Yuhua Qian, [<font color=navy>Deep Embedding Clustering Driven by Sample Stability</font>](https://www.ijcai.org/proceedings/2024/426), *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence*, 2024: 3854-3862.
 
+- Hongren Yan, Yuhua Qian, Furong Peng, Jiachen Luo, zheqing Zhu, **Feijiang Li**, [<font color=navy>Deep Neural Collapse To Multiple Centers For Imbalanced Data</font>](https://proceedings.neurips.cc//paper_files/paper/2024/hash/78a2ed8e7da1829d64fb3561adbd706b-Abstract-Conference.html), *Proceedings of the Advances in Neural Information Processing Systems 37*, 2024, 37: 65583-65617.
+
+- **Feijiang Li**, Jieting Wang, Liuya zhang, Yuhua Qian, Shuai Jin, Tao Yan, Liang Du, k-HyperEdge Medoids for Clustering Ensemble, *Proceedings of the AAAI Conference on Artificial Intelligence*, 2025. [[<font color=teal>Demo Code</font>](https://github.com/FeijiangLi/Code-k-HyperEdge-Medoids-for-Clustering-Ensemble-AAAI)]
+
+- Quanjiang Li, Tingjin Luo, Mingdie Jiang, Zhangqi Jiang, Chenping Hou, **Feijiang Li**, Semi-Supervised Multi-View Multi-Label Learning with View-Specific Transformer and Enhanced Pseudo-Label, *Proceedings of the AAAI Conference on Artificial Intelligence*, 2025.
+
+- Liang Du, Henghui Jiang, Xiaodong Li, Yiqing Guo, Yan Chen, **Feijiang Li**, Peng Zhou, Yuhua Qian, Sharper Error Bounds in Late Fusion Multi-view Clustering with Eigenvalue Proportion Optimization, *Proceedings of the AAAI Conference on Artificial Intelligence*, 2025.
 ---
 
 ## 中文论文
